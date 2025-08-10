@@ -1,28 +1,31 @@
-Website Portfolio – Bootstrap 5
+# Personal Portfolio Website
 
-Website portfolio responsif yang dibuat menggunakan Bootstrap 5, HTML, dan CSS.
-Project ini dibuat sebagai hasil dari tutorial WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 5 oleh Web Programming UNPAS.
-🎯 Fitur
+![Preview](screenshot.png)
 
-    Responsive Design: Tampilan menyesuaikan berbagai ukuran layar.
+Website portfolio pribadi yang dibuat menggunakan **Bootstrap 5**, mengikuti tutorial **WPU NGOBAR#27**.  
+Project ini adalah latihan pertama saya membuat website portfolio yang **responsive** dan rapi.
 
-    Bootstrap 5: Memanfaatkan komponen dan grid system.
+---
 
-    Portfolio Section: Menampilkan daftar project.
+## 🚀 Fitur
 
-    Contact Form: Form untuk pengiriman pesan.
+- Desain **responsive** menggunakan Bootstrap 5
+- Tampilan modern dan sederhana
+- Navigasi yang smooth
+- Section lengkap: Home, About, Portfolio, Contact
+- Ikon menggunakan **Bootstrap Icons**
 
-    Smooth Scroll & Animations: Efek animasi pada navigasi.
+---
 
-📂 Struktur Folder
+## 🛠️ Teknologi yang digunakan
 
-├── index.html
-├── css/
-│   └── style.css
-├── img/
-│   └── ...
-├── js/
-│   └── script.js
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Bootstrap Icons**
+
+---
+
 
 🚀 Cara Menjalankan
 
@@ -33,16 +36,8 @@ Project ini dibuat sebagai hasil dari tutorial WPU NGOBAR #27 – Membuat Websit
     Buka File
     Buka index.html di browser favorit.
 
-🛠 Teknologi yang Digunakan
 
-    HTML5
-
-    CSS3
-
-    Bootstrap 5
-
-    JavaScript (opsional)
 
 
 📚 Sumber Belajar
-  WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 5    WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 5
+  WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 5    WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 
