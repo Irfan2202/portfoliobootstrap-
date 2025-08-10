@@ -40,4 +40,4 @@ Project ini adalah latihan pertama saya membuat website portfolio yang **respons
 
 
 📚 Sumber Belajar
-  WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 5    WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 
+  WPU NGOBAR #27 – Membuat Website Portfolio dengan Bootstrap 5
