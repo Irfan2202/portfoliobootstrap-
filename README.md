@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Preview](screenshot.png)
+
 
 Website portfolio pribadi yang dibuat menggunakan **Bootstrap 5**, mengikuti tutorial **WPU NGOBAR#27**.  
 Project ini adalah latihan pertama saya membuat website portfolio yang **responsive** dan rapi.
